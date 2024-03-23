@@ -4,7 +4,9 @@
 
 # [ info ]
   
-A library that I using to releasing uwp that i cracked for fun and requested by bluds.
+A library that I using to releasing uwp that i cracked for fun and requested by bluds. There are a folder with system uwps for windows 10/11 just
+in case that you want to reinstall/repair those bloatware ;/
+
 
 # [ how-to ]
 ib tao di 
