@@ -22,6 +22,6 @@ If something fails then you might need to check your certificate/signature and w
 
 </div>
 
-+ [Icou](https://www.facebook.com/nam.nguyen2208), [:)](https://github.com/Ic0u) - idk
++ [Facebook](https://www.facebook.com/nam.nguyen2208), [Github](https://github.com/Ic0u)
 + [WSAppBak](https://github.com/Wapitiii/WSAppBak) - uwp repacker
 + [Microsoft AppX Link generator link here](https://store.rg-adguard.net/) - generator service
