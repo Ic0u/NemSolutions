@@ -1,6 +1,6 @@
 <div align="center">
 
-# UWP  LIBRARY
+# UWP  DRIVE
 
 # [ info ]
   
@@ -9,7 +9,7 @@ in case that you want to reinstall/repairs.
 
 
 # [ how-to ]
-figure thing out
+Install the certificate for system wide then install the app.
 </div>
 
 <div align="center">
